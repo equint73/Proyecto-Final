@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="proyecto.css">
+    <title>Document</title>
+
+</head>
+<body>
+    <a href=""></a>
+    <body style="background-color: rgb(169, 238, 238);"></body>
+    <h1 style="font-size: larger;" style="color: black; font-family: 'Times New Roman', Times, serif;">Fernando Emilio Quintero Medina</h1> 
+    <button>  <a style="background-color: white;" style="color: rgb(136, 4, 4);" href="https://docs.google.com/presentation/d/1V1mg10Po5xK1rq03xq1VgwmHB-oRJ06NwUgGL9QPrwI/edit?usp=sharing"> Acerca De</a>       </button>
+    <button>  <a style="background-color: crimson;" style="color: rgb(24, 103, 207);" href="https://docs.google.com/presentation/d/1uoJWe_cw4lC2HYt_L375XI1uitkmfRnnQqjl6Ip_Fu0/edit?usp=sharing"> Educación</a>       </button>
+    <button>  <a style="background-color: white;" style="color: rgb(248, 133, 1);"  href="https://docs.google.com/presentation/d/1nCYT4oivnmyIXvLw86x8RpKsxFc65OZH9OBYch3NvV8/edit?usp=sharing"> Redes</a>       </button>
+    <button>  <a style="background-color: crimson;" style="color: black;" href="https://docs.google.com/presentation/d/1FylIarwHewxE20IiIfIZ4n-thn-fE1d-orqj9HBxtbE/edit?usp=sharing"> Conocimientos</a>       </button>
+    <button>  <a style="background-color: white;" style="color: saddlebrown;" href="https://docs.google.com/presentation/d/19gIgJgIh77d3sL82RqmZC528QaaBhB9PYUVf7lqMBNQ/edit?usp=sharing"> Hobbies</a>       </button>
+    
+    <body>
+
+        <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel" data interval="1000">
+          <div class="carousel-inner">
+            <div class="carousel-item active" >
+              <img class="d-block w-100" src="imagenes proyecto intro/carrusel 1.jpg" alt="First slide">
+            </div>
+            <div class="carousel-item">
+              <img class="d-block w-100" src="imagenes proyecto intro/carrusel 2.jpg" alt="Second slide">
+            </div>
+            <div class="carousel-item">
+              <img class="d-block w-100" src="imagenes proyecto intro/carrusel 3.jpg" alt="Third slide">
+             
+            </div>
+          </div>
+        </div>
+        
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  
+  </body>
+  </html>
+  
+
+      
+    <title>Centrado de texto en footer</title>
+    <style>
+        footer {
+            text-align: center;
+        }
+    </style>
+    </head>
+    <body>
+    
+    <footer>
+        Fernando Emilio Quintero Medina 20241001521
+    </footer>
+    
+</body>
+</html>
